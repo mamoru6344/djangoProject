@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="da26ca1d-6441-426c-915c-fb83893bef35" name="さくらVPS" url="http://133.167.122.130">
+        <fileTransfer rootFolder="/var/www/m-anything-hobby.site/html/djangovenv" accessType="SFTP" host="os3-391-28626.vs.sakura.ne.jp" port="22" sshConfigId="07704c60-760a-4eb8-a436-60d7e388f705" sshConfig="ubuntu@os3-391-28626.vs.sakura.ne.jp:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
